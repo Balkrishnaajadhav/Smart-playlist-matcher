@@ -1,5 +1,20 @@
 # 🎧 Smart Playlist Matcher
 
+<div align="center">
+
+![PlayMood](https://img.shields.io/badge/PlayMood-Professional%20Audio%20Analysis-6366f1?style=for-the-badge&logo=music&logoColor=white)
+
+**AI-Powered Music Mood Detection & Recommendation System**
+
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![Gradio](https://img.shields.io/badge/Gradio-UI-FF7C00?style=flat&logo=gradio&logoColor=white)](https://gradio.app)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Librosa](https://img.shields.io/badge/Librosa-Audio-green?style=flat)](https://librosa.org)
+
+[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Architecture](#-system-architecture) • [Usage](#-usage)
+
+</div>
+
 ---
 
 ## 📋 Table of Contents
