@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Playlist Matcher
 
 A local prototype that analyzes audio tracks, predicts mood, and suggests matching tracks.
@@ -60,3 +61,6 @@ Notes
 
 - The repository expects the `catalog/audio/` folder to contain sample `.mp3` files.
 - If any files are missing, run `ensure_structure.py` to create safe placeholders without overwriting existing files.
+=======
+# Smart-playlist-matcher
+>>>>>>> 9123fc6536df5cd19f44ea51e172b2ec4f197c00
