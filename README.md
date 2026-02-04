@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Smart Playlist Matcher
 
 A local prototype that analyzes audio tracks, predicts mood, and suggests matching tracks.
